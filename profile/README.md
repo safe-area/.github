@@ -5,7 +5,7 @@ System for collecting and processing information on the spread of viral diseases
 ## System architecture
 
 <p align="center" markdown="1" style="max-width: 100%">
-  <img src="./../safe-area.jpg" alt="smart-mousetrap" style="max-width: 100%" />
+  <img src="./safe-area.jpg" alt="smart-mousetrap" style="max-width: 100%" />
 </p>
 
 ## System components:
